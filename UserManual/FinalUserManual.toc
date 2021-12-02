@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Product Description}{1}{section.1}%
+\contentsline {section}{\numberline {2}Set-Up}{1}{section.2}%
+\contentsline {section}{\numberline {3}How to Use}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Enter a Letter}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Clear the Display}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Enter a Word Less than 5 Letters}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Enter only One Word}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Prevent Anymore Inputs}{6}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Limitations}{7}{section.4}%
+\contentsline {section}{\numberline {5}Acknowledgements}{7}{section.5}%
