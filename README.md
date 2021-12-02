@@ -1,4 +1,4 @@
-# 8Bit 2 ASCII 2 LCD
+# 8Bit 2 ASCII 2 LCD 💻
 
 ![Howdy](https://user-images.githubusercontent.com/87344382/144463595-c1f01d5b-d7df-46a7-b7e2-38d7a8aa52df.jpeg)
 
