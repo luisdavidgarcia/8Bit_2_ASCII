@@ -4,7 +4,7 @@
 
 ## To Get Started
 
-Download and Read the User Manual it has the extension .pdf
+Click and Read the User Manual it has the extension .pdf
 
 ## Motivation for the Build
 
