@@ -9,8 +9,7 @@ Click and Read the User Manual it has the extension .pdf
 ## Motivation for the Build
 
 I always enjoyed seeing LCD display's as a Kid as it 
-feels as if their is someone in the back communicating with 
-me, so I wanted to determine how to interface an FPGA
+reminds me of playing on my old GameBoy, so I wanted to determine how to interface an FPGA
 with an LCD screen to output valid inputs.
 
 I found a method of doing so with the help of an Arduino to control the LCD and translate
